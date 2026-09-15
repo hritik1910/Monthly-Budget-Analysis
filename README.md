@@ -1,5 +1,7 @@
 # 📊 Personal Finance & Budget Analytics Tracker
 
+**NOTE:** **Anyone can have this Month-wise Tracker.** Just simply load Excel file attached in this Repository OR Visit this Google Sheet link https://docs.google.com/spreadsheets/d/1h30GbKby9Ogc1UJxBXlS14KKPVaLBiia-aF0YEImOXE/edit?usp=sharing and make a copy of it, that's it. Now tracker is all yours now.
+
 ## 📝 Project Overview
 The **Budget Analytics Tracker** is a data-driven financial project designed to monitor, categorize, and analyze monthly income against various expenditure streams. By mapping granular transaction data (e.g., rent, groceries, shopping) to macro-financial goals, this project provides a clear picture of cash flow, burn rate, and goal variance.
 This project demonstrates the ability to clean raw transactional data, track Key Performance Indicators (KPIs), and calculate budget utilization percentages to drive smarter financial decision-making.
