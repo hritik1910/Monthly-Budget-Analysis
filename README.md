@@ -16,6 +16,7 @@ This project demonstrates the ability to clean raw transactional data, track Key
 
 ## 🗄️ Data Structure
 The dataset contains aggregated summaries and individual transactional line items:
+
 _**Just For Example**_
 | Category | Actual (₹) | Goal (₹) | Utilization (%) |
 | :--- | :--- | :--- | :--- |
